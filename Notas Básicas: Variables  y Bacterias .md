@@ -1,6 +1,6 @@
 # NOTAS BÁSICAS: VARIABLES Y BACTERIAS
 
-##VARIABLES A CONTROLAR:
+## VARIABLES A CONTROLAR:
 
 Temperatura (ºC)
 Humedad (%)
@@ -9,7 +9,7 @@ Concentración de nutrientes (ug/mL)
 Aerobiosis / Anaerobiosis
 
 
-##DATOS A MUESTREAR:
+## DATOS A MUESTREAR:
 
 Forma de la colonia
 Color de la colonia
@@ -17,13 +17,13 @@ Recuento en placa
 % de área cubierta en la placa
 
 
-##BACTERIAS INTERESANTES:
+## BACTERIAS INTERESANTES:
 
 Lactobacillus sp. 
 Saccharomyces cerevisiae (Levadura de panadería)
 
 
-##SUSTRATO Y REQUERIMIENTOS DEL CULTIVO:
+## SUSTRATO Y REQUERIMIENTOS DEL CULTIVO:
 
 Nutrientes (en función del cultivo)
 Agar-agar (sustrato general)

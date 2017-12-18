@@ -49,6 +49,8 @@ Composición del agar MRS |
 1,0 % agar |
 pH ajustado a 6,2 con 25°C |
 
+La levadura y la carne proveen de una fuente de carbono, nitrógeno y vitaminas, que es necesario para el crecimiento bacteriano en eneral. Además, el extracto de levadura contiene vitaminas y aminoácidos que son requeridos por la gran mayoría de especies del género Lactobacillus. Por otro lado, el sulfato de magnesio y de manganeso suministran los cationes necesarios para metabolismo. 
+
 ### **1.3. Ecología y crecimiento de *Lactobacillus rhamnosus***
 ...
 ## **2. *Saccharomyces Cerevisiae***

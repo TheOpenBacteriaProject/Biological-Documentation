@@ -55,7 +55,7 @@ Composición del agar MRS |
 0,02 % sulfato de magnesio heptahidratado |
 0,005 % sulfato de manganeso tetrahidratado |
 1,0 % agar |
-pH ajustado a 6,2 con 25°C |
+**pH ajustado a 6,2 con 25°C** |
 
 La levadura y la carne proveen una fuente de carbono, nitrógeno y vitaminas, que son necesarias para el crecimiento bacteriano en eneral. Además, el extracto de levadura contiene vitaminas y aminoácidos que son requeridos por la gran mayoría de especies del género Lactobacillus. Por otro lado, el sulfato de magnesio y de manganeso suministran los cationes necesarios para metabolismo ( *De Man et al., 1960* ).  
 
@@ -72,7 +72,19 @@ Es uno de los modelos más adecuados para el estudio de problemas biológicos, y
 Se conoce además su genoma completo y su maquinaria moleculares está altamente conservada tanto en plantas como en vertebrados, lo que significa que es posible la introducción de genes de organismos eucariotas dentro del genoma de la levadura para poder averiguar su función. Su velocidad de crecimiento permite además llevar a cabo estudios que por razones de tiempo, serían más complicados y costosos en otros organismos multicelulares superiores.
 
 ### **2.2. Cultivo in vitro de *Saccharomyces cerevisiae***
-...
+
+Las levaduras crecen bien en un medio mínimo que contiene solo dextrosa y sales, pero la adición de proteínas y extracto de levadura permite un crecimiento más rápido de modo que durante el crecimiento exponencial o de fase logarítmica, las células se dividen cada 90 minutos. El cultivo in vitro de S. cerevisiae se realiza comúnmente en un medio conocido como agar YPD (Yeast Extract-Peptone-Dextrose):
+
+Composición del agar YPD |
+---------------------- |
+1,0% extracto de levadura |
+2,0% peptona |
+2,0% dextrosa |
+1,5% agar |
+**pH ajustado a 6,5 con 25°C** |
+
+En este medio, la peptona actúa como fuente de carbono, nitrógeno, vitaminas y minerales, mientras que el extracto de levadura aportará otras vitaminas que van a estimular el crecimiento de las células y la dextrosa será una fuente de carbohidratos.
+
 ### **2.3. Ecología y crecimiento de *Saccharomyces cerevisiae***
 ...
 ## **3. Bibliografía**
@@ -98,5 +110,3 @@ Se conoce además su genoma completo y su maquinaria moleculares está altamente
 * Sanchez, M.; Darimont, C.; Drapeau, V.; Emady-Azar, S.; Lepage, M.; Rezzonico, E.; Ngom-Bru, C.; Berger, B.; Philippe, L.; Ammon-Zuffrey, C.; Leone, P.; Chevrier, G.; St-Amand, E.; Marette, A.; Doré, J.; Tremblay, A. (2014). *"Effect of Lactobacillus rhamnosus CGMCC1.3724 supplementation on weight loss and maintenance in obese men and women"*. British Journal of Nutrition. 111 (8): 1507–1519.
 
 * Wang, Y.; Liu, Y.; Sidhu, A.; Ma, Z.; McClain, C.; Feng, W. (2012). *"Lactobacillus rhamnosus GG culture supernatant ameliorates acute alcohol-induced intestinal permeability and liver injury"*. Am J Physiol Gastrointest Liver Physiol. 303 (1): G32–41.
-
- 

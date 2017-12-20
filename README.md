@@ -6,7 +6,7 @@ This repository contains all documentation about theoric biological issues such 
 
 ## Index
 
-**Introduction to *Lactobacillus rhamnosus* and *Saccharomyces cerevisiae* biology**
+### **Introduction to *Lactobacillus rhamnosus* and *Saccharomyces cerevisiae* biology**
 
 1. *Lactobacillus rhamnosus*
    
@@ -28,7 +28,7 @@ This repository contains all documentation about theoric biological issues such 
    
    ------------
    
-**Culture Techniques and Materials**
+### **Culture Techniques and Materials**
 
 1. *Lactobacillus rhamnosus*
 
@@ -44,7 +44,7 @@ This repository contains all documentation about theoric biological issues such 
    
    -------------
    
-**Microbial Colony Morphological Analysis**
+### **Microbial Colony Morphological Analysis**
 
 1. Introduction to cellular colonies
 

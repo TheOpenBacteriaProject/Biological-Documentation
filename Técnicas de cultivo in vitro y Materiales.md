@@ -16,7 +16,9 @@
  
 ## **1. *Lactobacillus rhamnosus***
 
-(“Lactobacillus rhamnosus”. Dr. Karen Sullivan, 2014 (Louisiana State University))
+![Image not found](/images/L.rhamnosus.jpg "Lactobacillus rhamnosus")
+
+(“*Lactobacillus rhamnosus*”. Dr. Karen Sullivan, 2014 (Louisiana State University))
 
 ### **1.1. Materiales para el cultivo de *L. rhamnosus***
 
@@ -36,7 +38,9 @@
        
 ## **2. *Saccharomyces cerevisiae***
 
-(“Saccharomyces cerevisiae”. Bob Blaylock, 2010)
+![Image not found](/images/S.cerevisiae.jpg "Saccharomyces cerevisiae")
+
+(“*Saccharomyces cerevisiae*”. Bob Blaylock, 2010)
 
 ### **2.1. Materiales para el cultivo de *S. cerevisiae***
 

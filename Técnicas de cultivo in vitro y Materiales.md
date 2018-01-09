@@ -14,6 +14,8 @@
    2.2. Procedimiento
  -------------------------
  
+**IMPORTANTE:** Es de vital importancia que en todo momento seguiremos las normas de seguridad y esterilidad necesarias en cualquier laboratorio de microbiología, procediendo siempre de la manera más rigurosa posible y evitando en todo momento la contaminación de las muestras o el material. Todo el instrumental debe estar debidamente esterilizado y autoclavado y al acabar, los residuos serán depositados en un contenedor adecuado y el material volverá a ser debidamente autoclavado para un posterior uso.
+ 
 ## **1. *Lactobacillus rhamnosus***
 
 ![Image not found](/images/L.rhamnosus.jpg "Lactobacillus rhamnosus")
@@ -25,7 +27,7 @@
 * Placas de petri con Agar MRS x 3
 * Tubos de ensayo
 * Micropipeta
-* Puntas de micropipeta
+* Puntas de micropipeta esterilizadas
 * Estufa de cultivo
 * Muestra de *L. rhamnosus*
 
@@ -47,7 +49,7 @@
 * Placas de petri con Agar YPD x 3
 * Tubos de ensayo
 * Micropipeta
-* Puntas de micropipeta
+* Puntas de micropipeta esterilizadas
 * Estufa de cultivo
 * Sobre de levadura (*S. cerevisiae*)
 

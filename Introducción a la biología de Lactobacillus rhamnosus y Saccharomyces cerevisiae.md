@@ -60,7 +60,12 @@ Composición del agar MRS |
 La levadura y la carne proveen una fuente de carbono, nitrógeno y vitaminas, que son necesarias para el crecimiento bacteriano en eneral. Además, el extracto de levadura contiene vitaminas y aminoácidos que son requeridos por la gran mayoría de especies del género Lactobacillus. Por otro lado, el sulfato de magnesio y de manganeso suministran los cationes necesarios para metabolismo ( *De Man et al., 1960* ).  
 
 ### **1.3. Ecología y crecimiento de *Lactobacillus rhamnosus***
-...
+
+Las bacterias del género *Lactobacillus* son en su mayoría acidófilas, ya que la producción de ácido láctico hace que su ambiente tenga un pH bajo, inhibiendo el crecimiento de otras bacterias que pudieran ser patógenas o competidoras. Muchos de estos organismos no necesitan hierro para vivir y tienen una tolerancia extremadamente alta al peróxido de hidrógeno, comúnmente llamada “agua oxigenada”.
+
+Muchas de estas bacterias son capaces de llevar a cabo homofermentaciones o lo que es lo mismo, la fermentación de la glucosa o de otros azúcares en la que se obtiene un único producto, ácido láctico. Además son organismos aerotolerantes dependientes del manganeso ( *Archibald & Fridovich, 1981* ).
+
+
 ## **2. *Saccharomyces Cerevisiae***
 
 ### **2.1. Objeto e interés de estudio de *Saccharomyces cerevisiae***
@@ -86,8 +91,16 @@ Composición del agar YPD |
 En este medio, la peptona actúa como fuente de carbono, nitrógeno, vitaminas y minerales, mientras que el extracto de levadura aportará otras vitaminas que van a estimular el crecimiento de las células y la dextrosa será una fuente de carbohidratos.
 
 ### **2.3. Ecología y crecimiento de *Saccharomyces cerevisiae***
-...
+
+En *S. cerevisiae*, las fuentes de carbono utilizadas por las levaduras pueden ser desde carbohidratos hasta aminoácidos. De hecho, esta capacidad que poseen para utilizar distintos tipos de carbohidratos (glucosa, fructosa, manosa, galactosa, etc..), ha sido empleada tradicionalmente para distinguir unas subespecies de otras. Algunas también son capaces de utilizar disacáridos como la maltosa y la sacarosa y trisacáridos como la rafinosa, pero nunca la lactosa. Otras fuentes de carbono que pueden usar son el etanol y el glicerol. Para su crecimiento requieren además de una fuente de nitrógeno (amonio, urea u otros aminoácidos) y una de fósforo. También son necesarias vitaminas como la Biotina (o vitamina H) y distintos elementos traza.
+
+Poseen dos tipos de metabolismos solapados entre sí y muy bien diferenciados. Por una parte, si en el sustrato predominan azúcares como la glucosa, fructosa o maltosa, la tendencia es a realizar una fermentación alcohólica de estos, formando etanol mediante la glucólisis. Por otro lado, el etanol puede ser posteriormente usado en la respiración durante el ciclo de Krebs. Este tipo de metabolismo, es deficiente en términos energéticos, pero proporciona ventajas a la hora de la competencia, pues no todas las bacterias son capaces de usar el etanol como sustrato y mucho menos tolerarlo.
+
+Respecto a su reproducción, puede ser tanto sexual como asexual. El apareamiento sexual sólo puede ocurrir entre células haploides de distinto sexo, es decir, entre las llamadas  células a y las células alfa. Su determinación sexual depende de un único locus (locus *MAT*) y no de un cromosoma particular para cada sexo. Su reproducción asexual se da mediante gemación o escisión de pequeñas gemas a partir de una gema madre, con idéntica información genética entre sí.
+
 ## **3. Bibliografía**
+
+* Archibald, F.S.; Fridovich, I. (1981). *“Manganese and Defenses against Oxygen Toxicity in Lactobacillus plantarum”*. J. Bacteriol. 145 (1): 442–451.
 
 * Bravoa, J.A.; Forsytheb, P.; Chewb, M.V.; Escaravageb, E.; Savignaca, H.M.; Dinana, T.G.; Bienenstockb, J.; Cryan, J.F. (2011) *“Ingestion of Lactobacillus strain regulates emotional behavior and central GABA receptor expression in a mouse via the vagus nerve”*. Proc Natl Acad Sci U S A. 108 (38): 16050–16055.
 

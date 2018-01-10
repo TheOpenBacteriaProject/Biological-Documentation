@@ -25,7 +25,6 @@ Este repositorio contiene toda la documentación sobre asuntos relativos a biolo
     
     2.3. Ecología y crecimiento de *S. cerevisiae*
     
-
 3. Bibliografía
     
 ---------------------------------------
@@ -53,5 +52,27 @@ Este repositorio contiene toda la documentación sobre asuntos relativos a biolo
 2. Caractersticas morfológicas de las colinas
 
 3. Importancia del análisis morfolófico
+
+---------------------------------------
+
+### **Técnicas de recuento de microorganismos**
+
+1. Introducción a los métodos de recuento
+
+2. Técnicas y métodos de recuento
+
+    2.1. Recuento en placa
+    
+    2.2. Recuento por filtración
+    
+    2.3. Método del número más probable (NMP)
+    
+    2.4. Recuento directo mediante un microscopio
+    
+    2.5. Método de turbidez
+    
+    2.6. Determinación del peso seco 
+
+3. Bibliografía
 
 

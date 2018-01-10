@@ -51,3 +51,25 @@ This repository contains all documentation about theoric biological issues such 
 2. Morphological classification of colonies
 
 3. Importance of morphological analysis
+
+-----------------
+
+### ** Microorganism counting techniques **
+
+1. Introduction to counting methods
+
+2. Counting techniques and methods
+
+   2.1. Plate count
+
+   2.2. Counting by filtration
+
+   2.3. Most probable number method (NMP)
+
+   2.4. Direct counting through a microscope
+
+   2.5. Turbidity method
+
+   2.6. Determination of dry weight
+
+3. Bibliography

@@ -54,7 +54,7 @@ This repository contains all documentation about theoric biological issues such 
 
 -----------------
 
-### ** Microorganism counting techniques **
+### **Microorganism counting techniques**
 
 1. Introduction to counting methods
 

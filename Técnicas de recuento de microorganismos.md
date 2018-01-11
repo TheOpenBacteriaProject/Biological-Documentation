@@ -4,7 +4,7 @@
 
 1. Introducción a los métodos de recuento
 
-2. Técnicas y métodos de recuento
+2. Técnicas de recuento no automáticas
 
     2.1. Recuento en placa
     
@@ -17,8 +17,16 @@
     2.5. Método de turbidez
     
     2.6. Determinación del peso seco 
+    
+3. Técnicas de recuento automáticas
 
-3. Bibliografía
+    3.1. Recuento por resistencia eléctrica
+    
+    3.2. Recuento por citometría de flujo
+
+    3.3. Recuento por análisis de imagen
+    
+4. Bibliografía
 
 ---------------------------------------------------------------
 
@@ -27,7 +35,7 @@
 En biología, la necesidad de un método de estimación de densidad de microorganismos in situ, es más patente día a día. Y es que se trata de una herramienta muy útil a la hora de realizar estimas en estudios de microbiología y genética.
 El recuento de microorganismos indica la magnitud de la población total bacteriana y puede determinarse mediante el conteo celular (de forma directa mediante el microscopio o un contador electrónico de partículas o de forma indirecta mediante el conteo de colonias), la determinación de la masa celular (de forma directa pesando el contenido celular del nitrógeno o de forma indirecta mediante turbidimetría) y la actividad celular (únicamente de forma indirecta, mediante la relación de la actividad metabólica y el tamaño de una población bacteriana). 
 
-## **2. Técnicas y métodos de recuento**
+## **2. Técnicas de recuento no automáticas**
 
 ### **2.1. Recuento en placa**
 
@@ -69,7 +77,25 @@ En algunas ocasiones, la turbidez sirve para estimar el número de bacterias y s
 
 Se trata del método más directo de medición cuantitativa de la masa celular. Se trata de extraer las bacterias de su medio de cultivo mediante filtración y posteriormente drenarlas mediante un secador para luego pesar el material resultante. 
 
-## **3. Bibliografía**
+## **3. Técnicas de recuento automáticas**
+
+### **3.1. Recuento por resistencia eléctrica**
+
+Mediante un dispositivo conocido como contador de Coulter, es posible contar células y medir su volumen. Se basa en el hecho de que las células muestran una gran resistencia eléctrica, es decir, son poco conductoras. En este aparato, las células están en una solución que conduce la electricidad y que se hace pasar por un conducto estrecho con dos electrodos que también son conductores.  Cuando no hay células en el conducto, la electricidad fluye sin interrupciones, pero cuando una célula pasa a través de él, la corriente se interrumpe. Este aparato además mide la corriente, que se relaciona directamente con el tamaño de la célula que cruza el conducto.
+Su mayor ventaja es que un método bastante simple que permite contar miles de células por segundo con una gran precisión y significación estadística.
+
+### **3.2. Recuento por citometría de flujo**
+
+La citometría de flujo es posiblemente uno de los métodos más sofisticados y costosos a la hora de realizar un recuento celular. En un citómetro de flujo, las células fluyen en una corriente que se estrecha mientras que un rayo láser las detecta una a una y un receptor capta la luz reflejada desde ellas.
+
+Con este aparato se puede analizar la forma de las células y sus estructuras internas y externas, así como medir la cantidad de proteínas específicas y otros compuestos bioquímicos. 
+
+### **3.3. Recuento por análisis de imagen**
+
+Mediante imágenes microscópicas de alta calidad sobre las cuales y un algoritmo de clasificación se es capaz de detectar y contar de forma automática mediante un ordenador. 
+
+
+## **4. Bibliografía**
 
 + Tortora, G.J. (2004). Microbiology “An Introduction” (8th edition). Pearson Prentice Hall.
 

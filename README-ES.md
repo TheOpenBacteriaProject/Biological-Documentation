@@ -33,15 +33,15 @@ Este repositorio contiene toda la documentación sobre asuntos relativos a biolo
 
 1. *Lactobacillus rhamnosus*
 
-   1.1. Materiales para el cultivo de *L. rhamnosus*
+    1.1. Materiales para el cultivo de *L. rhamnosus*
 
-   1.2. Procedimiento
+    1.2. Procedimiento
 
 2. *Saccharomyces cerevisiae*
  
-   2.1. Materiales para el cultivo de *S. cerevisiae*
+    2.1. Materiales para el cultivo de *S. cerevisiae*
  
-   2.2. Procedimiento
+    2.2. Procedimiento
 
 ---------------------------------------
 
@@ -59,7 +59,7 @@ Este repositorio contiene toda la documentación sobre asuntos relativos a biolo
 
 1. Introducción a los métodos de recuento
 
-2. Técnicas y métodos de recuento
+2. Técnicas de recuento no automáticas
 
     2.1. Recuento en placa
     
@@ -72,7 +72,13 @@ Este repositorio contiene toda la documentación sobre asuntos relativos a biolo
     2.5. Método de turbidez
     
     2.6. Determinación del peso seco 
+    
+3. Técnicas de recuento automáticas
 
-3. Bibliografía
+    3.1. Recuento por resistencia eléctrica
+    
+    3.2. Recuento por citometría de flujo
+    
+    3.3. Recuento por análisis de imagen
 
-
+4. Bibliografía

@@ -58,7 +58,7 @@ This repository contains all documentation about theoric biological issues such 
 
 1. Introduction to counting methods
 
-2. Counting techniques and methods
+2. Non-automatic counting techniques
 
    2.1. Plate count
 
@@ -71,5 +71,13 @@ This repository contains all documentation about theoric biological issues such 
    2.5. Turbidity method
 
    2.6. Determination of dry weight
+   
+3. Automatic counting techniques
 
-3. Bibliography
+    3.1. Counting by electrical resistance
+
+    3.2. Counting by flow cytometry
+
+    3.3. Counting by image analysis
+
+4. Bibliography

@@ -44,7 +44,7 @@
 
 4. Las placas sembradas serán introducidas con el medio hacia abajo, en una estufa oscura (medio aeróbico) a unos 30 - 37ºC durante un periodo entre 24 a 48h.
 
-5. Una vez terminado el tiempo de espera se procederá a la observación de los resultados, toma de fotografías y recuento en placa de las colonias.
+5. Una vez terminado el tiempo de espera se procederá a la observación de los resultados, toma de fotografías y la estimación de unidades formadoras de colonias (UFC) mediante la técnica de recuento en placa.
      
 ## **2. *Saccharomyces cerevisiae***
 
@@ -74,4 +74,4 @@
 
 4. Las placas sembradas serán introducidas con el medio hacia abajo, en una estufa oscura (medio aeróbico) a unos 25 - 30ºC durante un periodo entre 24 a 48h.
 
-5. Una vez terminado el tiempo de espera se procederá a la observación de los resultados, toma de fotografías y recuento en placa de las colonias.
+5. Una vez terminado el tiempo de espera se procederá a la observación de los resultados, toma de fotografías y la estimación de unidades formadoras de colonias (UFC) mediante la técnica de recuento en placa.

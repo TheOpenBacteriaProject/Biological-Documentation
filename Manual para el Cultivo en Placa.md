@@ -1,9 +1,9 @@
-# MANUAL PARA EL CULTIVO EN PLACA
+# MANUAL PARA EL CULTIVO EN PLACA DE *LACTOBACILLUS CASEI* Y *SACCHAROMYCES CEREVISIAE*
 
 ## Índice
 1. *Lactobacillus casei*
 
-   1.1. Materiales para el cultivo de *L. rhamnosus*
+   1.1. Materiales para el cultivo de *L. casei*
 
    1.2. Procedimiento
 
@@ -22,7 +22,7 @@
 
 (“*Lactobacillus casei*”. AJC1, 2013 (www.microbiologybytes.com))
 
-### **1.1. Materiales para el cultivo de *L. rhamnosus***
+### **1.1. Materiales para el cultivo de *L. casei***
 
 * Placas de petri con Agar TSA x 9
 * Tubos de ensayo con tapón x 4

@@ -82,3 +82,13 @@ Este repositorio contiene toda la documentación sobre asuntos relativos a biolo
     3.3. Recuento por análisis de imagen
 
 4. Bibliografía
+
+------------------------------
+
+### Materiales y equipamiento necesarios
+
+1. Equipo del laboratorio
+
+2. Materiles necesarios
+
+3. Disponibilidad

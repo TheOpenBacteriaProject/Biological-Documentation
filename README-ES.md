@@ -6,15 +6,15 @@ Este repositorio contiene toda la documentación sobre asuntos relativos a biolo
 
 ## Índice
 
-### **Introducción a la biología de *Lactobacillus rhamnosus* y *Saccharomyces cerevisiae***
+### **Biología de *Lactobacillus casei* y *Saccharomyces cerevisiae***
 
-1. *Lactobacillus rhamnosus*
+1. *Lactobacillus casei*
 
-    1.1. Objeto e interés de estudio de *L.rhamnosus*
+    1.1. Objeto e interés de estudio de *L.casei*
 
-    1.2. Cultivo in vitro de *L.rhamnosus*
+    1.2. Cultivo in vitro de *L.casei*
 
-    1.3. Ecología y crecimiento de *L.rhamnosus*
+    1.3. Ecología y crecimiento de *L.casei*
 
 
 2. *Saccharomyces cerevisiae*
@@ -29,11 +29,11 @@ Este repositorio contiene toda la documentación sobre asuntos relativos a biolo
     
 ---------------------------------------
 
-### **Técnicas de cultivo in vitro y Materiales**
+### **Manual para el cultivo en placa**
 
-1. *Lactobacillus rhamnosus*
+1. *Lactobacillus casei*
 
-    1.1. Materiales para el cultivo de *L. rhamnosus*
+    1.1. Materiales para el cultivo de *L. casei*
 
     1.2. Procedimiento
 

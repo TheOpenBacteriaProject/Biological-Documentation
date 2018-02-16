@@ -81,3 +81,13 @@ This repository contains all documentation about theoric biological issues such 
     3.3. Counting by image analysis
 
 4. Bibliography
+
+-------------------------
+
+### Necessary materials and equipment
+
+1. Laboratory equipment
+
+2. Necessary materials
+
+3. Availability

@@ -6,15 +6,15 @@ This repository contains all documentation about theoric biological issues such 
 
 ## Index
 
-### **Introduction to *Lactobacillus rhamnosus* and *Saccharomyces cerevisiae* biology**
+### **Biology of *Lactobacillus casei* and *Saccharomyces cerevisiae***
 
-1. *Lactobacillus rhamnosus*
+1. *Lactobacillus casei*
    
-   1.1. Object of study and interest of *L.rhamnosus*
+   1.1. Object of study and interest of *L.casei*
    
-   1.2. In vitro culture of *L.rhamnosus*
+   1.2. In vitro culture of *L.casei*
       
-   1.3. Ecology and growth of *L.rhamnosus*
+   1.3. Ecology and growth of *L.casei*
  
 2. *Saccharomyces cerevisiae*
    
@@ -28,11 +28,11 @@ This repository contains all documentation about theoric biological issues such 
    
    ------------
    
-### **Culture Techniques and Materials**
+### **Culture in Petri dish Handbook**
 
-1. *Lactobacillus rhamnosus*
+1. *Lactobacillus casei*
 
-   1.1. Culturing materials for *L. rhamnosus*
+   1.1. Culturing materials for *L. casei*
 
    1.2. Procedure
 

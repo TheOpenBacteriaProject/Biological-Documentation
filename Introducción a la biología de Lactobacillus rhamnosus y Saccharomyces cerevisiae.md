@@ -1,13 +1,13 @@
-# INTRODUCCIÓN A LA BIOLOGÍA DE *LACTOBACILLUS RHAMNOSUS* Y *SACCHAROMYCES CEREVISIAE*
+# BIOLOGÍA DE *LACTOBACILLUS CASEI* Y *SACCHAROMYCES CEREVISIAE*
 
 ## Índice
-1. *Lactobacillus rhamnosus*
+1. *Lactobacillus casei*
 
-    1.1. Objeto e interés de estudio de *L.rhamnosus*
+    1.1. Objeto e interés de estudio de *L.casei*
 
-    1.2. Cultivo in vitro de *L.rhamnosus*
+    1.2. Cultivo in vitro de *L.casei*
 
-    1.3. Ecología y crecimiento de *L.rhamnosus*
+    1.3. Ecología y crecimiento de *L.casei*
 
 
 2. *Saccharomyces cerevisiae*
@@ -23,20 +23,19 @@
 
 ---------------------------------------------------------------
 
-## **1. *Lactobacillus rhamnosus***
+## **1. *Lactobacillus casei***
 
-### **1.1. Objeto e interés de estudio de *Lactobacillus rhamnosus***
+### **1.1. Objeto e interés de estudio de *Lactobacillus casei***
 
 Las especies del género *Lactobacillus*, también llamadas bacterias del ácido láctico, son bacterias Gram positivas anaerobias aerotolerantes, denominadas así debido a que la mayoría son capaces de convertir la lactosa y otros monosacáridos en ácido láctico, mediante un proceso denominado fermentación láctica.
 
 Estas bacterias son de un gran interés para la industria láctea, siendo capaces de producir casi cualquier tipo de yogurt y otros alimentos fermentados. Además, al ser parte de la flora natural (tanto del  tracto digestivo como de la vagina) del cuerpo humano y de otros animales, los alimentos que las contienen son considerados como probióticos, es decir, alimentos con microorganismos vivos adicionados que permanecen activos en el intestino en cantidad suficiente como para alterar la microbiota intestinal del huésped, facilitando procesos como la digestión o la defensa contra patógenos ya que producción de ácido láctico hace que su ambiente esté cargado de protones otorgándole un pH ácido, inhibiendo así el crecimiento de bacterias patógenas. 
 
-Entre otros usos de Lactobacillus rhamnosus está la prevención del rotavirus diarreico en niños y el tratamiento de varios tipos de diarrea en niños y en adultos ( *Canaani et al., 2007* ), prevención de dermatitis atópica en niños con alto riesgo de alergia ( *Kalliomäki et al., 2007* ), protección del tracto urogenital ( *Kalliomäki et al., 2001* ), reducción de la permeabilidad intestinal ( *Wang et al., 2012* ), resistencia contra Enterococcus (*Manley et al., 2007*), pérdida de peso en mujeres ( *Sanchez et al., 2014* ), reducción de la ansiedad ( *Bravoa et al., 2011* ) y prevención del síndrome de Asperger y ADHD ( *Pärtty et al., 2015* ).
+Entre otros usos de *Lactobacillus casei* está el de servir de probiótico en tratamientos para favorecer el crecimiento de la flora intestinal. Para ello, estos microorganismos, deben resistir la acción de los jugos gástricos, biliares y duodenales, y conseguir establecerse en intestino. Se han realizado experimentos (*Yuki et al., 1999*) para detectar la supervivencia de estas bacterias al paso por el tracto intestinal y se ha visto que hay un porcentaje alto de supervivencia sin llegar a producirse alteraciones el sistema inmunoprotector de los consumidores (*Spanhaak et al., 1998*).
 
-Se sabe además que L. rhamnosus está relacionada con ciertas patogénesis como infecciones de vías respiratorias en niños ( *Hojsak et al., 2009* ) y el uso del mismo terapia probiótica ha sido relacionado con casos muy raros de sepsis en ciertos grupos de riesgo, principalmente personas con un sistema inmunitario debilitado y también en niños ( *Gupta & Garg, 2009* ).
+Lactobacillus casei es usada además en el tratamiento de patologías gastrointestinales causadas por bacterias como Helicobacter pylori o para prevenir la diarrea asociada a los antibióticos (AAD), además de las causadas por rotavitus, y las infecciones causadas por Clostridium difficile (*McFarland, 2009*).
 
-
-### **1.2. Cultivo in vitro de *Lactobacillus rhamnosus***
+### **1.2. Cultivo in vitro de *Lactobacillus casei***
 
 Un medio adecuado para su crecimiento es el agar MRS, el cual permite un buen crecimiento de bacterias ácido lácticas, tales como los *Lactobacillus*. El Agar De Man, Rogosa y Sharpe (MRS) es un medio selectivo diseñado para permitir el crecimiento de Lactobacillus en el laboratorio. Además el acetato de sodio que suprime el crecimiento de otras bacterias competidoras, aunque algunas especies del género  Lactobacillus, Leuconostoc y Pediococcus. 
 
@@ -57,9 +56,9 @@ Composición del agar MRS |
 1,0 % agar |
 **pH ajustado a 6,2 con 25°C** |
 
-La levadura y la carne proveen una fuente de carbono, nitrógeno y vitaminas, que son necesarias para el crecimiento bacteriano en eneral. Además, el extracto de levadura contiene vitaminas y aminoácidos que son requeridos por la gran mayoría de especies del género Lactobacillus. Por otro lado, el sulfato de magnesio y de manganeso suministran los cationes necesarios para metabolismo ( *De Man et al., 1960* ).  
+La levadura y la carne proveen una fuente de carbono, nitrógeno y vitaminas, que son necesarias para el crecimiento bacteriano en eneral. Además, el extracto de levadura contiene vitaminas y aminoácidos que son requeridos por la gran mayoría de especies del género *Lactobacillus*. Por otro lado, el sulfato de magnesio y de manganeso suministran los cationes necesarios para metabolismo ( *De Man et al., 1960* ).  
 
-### **1.3. Ecología y crecimiento de *Lactobacillus rhamnosus***
+### **1.3. Ecología y crecimiento de *Lactobacillus casei***
 
 Las bacterias del género *Lactobacillus* son en su mayoría acidófilas, ya que la producción de ácido láctico hace que su ambiente tenga un pH bajo, inhibiendo el crecimiento de otras bacterias que pudieran ser patógenas o competidoras. Muchos de estos organismos no necesitan hierro para vivir y tienen una tolerancia extremadamente alta al peróxido de hidrógeno, comúnmente llamada “agua oxigenada”.
 
@@ -102,24 +101,11 @@ Respecto a su reproducción, puede ser tanto sexual como asexual. El apareamient
 
 * Archibald, F.S.; Fridovich, I. (1981). *“Manganese and Defenses against Oxygen Toxicity in Lactobacillus plantarum”*. J. Bacteriol. 145 (1): 442–451.
 
-* Bravoa, J.A.; Forsytheb, P.; Chewb, M.V.; Escaravageb, E.; Savignaca, H.M.; Dinana, T.G.; Bienenstockb, J.; Cryan, J.F. (2011) *“Ingestion of Lactobacillus strain regulates emotional behavior and central GABA receptor expression in a mouse via the vagus nerve”*. Proc Natl Acad Sci U S A. 108 (38): 16050–16055.
-
-* Canaani, R.B.; Cirillo, P.; Terrin, G.; Cesarano, L.; Spagnuolo, M.I.; De Vincenzo, A.; Albano, F.; Passariello, A.; De Marco, G.; Manguso, F.; Guarino, A. (2007). *"Probiotics for treatment of accute diarrhoea in children: randomised clinical trial of five different preparations"*. BMJ. 335 (7615): 340.
-
 * De Man, J.D.; Rogosa, M.; Sharpe, M.E. (1960). *"A Medium for the Cultivation of Lactobacilli"*. J Appl Bact. 23: 130–135.
 
-* Gupta, V; Garg, R. (2009). *"Probiotics"*. Indian Journal of Medical Microbiology. 27 (3): 202–9.
+* McFarland, LV (2009). "Evidence-based review of probiotics for antibiotic-associated diarrhea and Clostridium difficile infections" (PDF). Anaerobe. 15 (6): 274–80.
 
-* Hojsak, I.; Snovak, N.; Abdović, S.; Szajewska, H.; Mišak, Z.; Kolaček, S. (2009). *"Lactobacillus GG in the prevention of gastrointestinal and respiratory tract infections in children who attend day care centers: A randomized, double-blind, placebo-controlled trial"*. Clin. Nutr. 29 (3): 312–6.
+* Spanhaak, S; Havenaar, R; Schaafsma, G. (1998). “The effect of consumption of milk fermented by Lactobacillus casei strain Shirota on the intestinal microflora and immune parameters in humans”. European Journal of Clinical Nutrition. 52 (12): 899–907.
 
-* Kalliomäki, M.; Salminen, S.; Arvilommi, H.; Kero, P.; Koskinen, P.; Isolauri, E. (2001). *"Probiotics in primary prevention of atopic disease: a randomised placebo-controlled trial"*. The Lancet. 357 (9262): 1076–9.
+* Yuki, N.; Watanabe, K.; Mike, A.; Tagami, Y.; Tanaka, R.; Ohwaki, M. y Morotomi, M. (1999). “Survival of a probiotic, Lactobacillus casei strain Shirota, in the gastrointestinal tract: selective isolation from faeces and identification using monoclonal antibodies”. Int. J. Food Microbiol. 48(1): 51-7.
 
-* Kalliomäki, M.; Salminen, S.; Poussa, T.; Isolauri, E. (2007). *"Probiotics during the first 7 years of life: a cumulative risk reduction of eczema in a randomized, placebo-controlled trial"*. J Allergy Clin Immunol. 119 (4): 1019–21.
-
-* Manley, K.J.; Fraenkel, M.B.; Mayall, B.C.; Power, D.A.; (2007). *"Probiotic treatment of vancomycin-resistant enterococci: a randomised controlled trial"*. Med J Aust. 186 (9): 454–7.
-
-* Pärtty, A.; Kalliomäki, M.; Wacklin, P.; Salminen, S.; Isolauri, E. (2015). *"A possible link between early probiotic intervention and the risk of neuropsychiatric disorders later in childhood"*. Pediatric Research. 77 (6): 823–8.
-
-* Sanchez, M.; Darimont, C.; Drapeau, V.; Emady-Azar, S.; Lepage, M.; Rezzonico, E.; Ngom-Bru, C.; Berger, B.; Philippe, L.; Ammon-Zuffrey, C.; Leone, P.; Chevrier, G.; St-Amand, E.; Marette, A.; Doré, J.; Tremblay, A. (2014). *"Effect of Lactobacillus rhamnosus CGMCC1.3724 supplementation on weight loss and maintenance in obese men and women"*. British Journal of Nutrition. 111 (8): 1507–1519.
-
-* Wang, Y.; Liu, Y.; Sidhu, A.; Ma, Z.; McClain, C.; Feng, W. (2012). *"Lactobacillus rhamnosus GG culture supernatant ameliorates acute alcohol-induced intestinal permeability and liver injury"*. Am J Physiol Gastrointest Liver Physiol. 303 (1): G32–41.

@@ -30,17 +30,19 @@ This repository contains all documentation about theoric biological issues such 
    
 ### **Culture in Petri dish Handbook**
 
-1. *Lactobacillus casei*
+1. Preparation of culture medium
 
-   1.1. Culturing materials for *L. casei*
+2. *Lactobacillus casei*
 
-   1.2. Procedure
+   2.1. Culturing materials for *L. casei*
 
-2. *Saccharomyces cerevisiae*
- 
-   2.1. Culturing materials for de *S. cerevisiae*
- 
    2.2. Procedure
+
+3. *Saccharomyces cerevisiae*
+ 
+   3.1. Culturing materials for de *S. cerevisiae*
+ 
+   3.2. Procedure
    
    -------------
    

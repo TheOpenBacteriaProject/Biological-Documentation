@@ -31,17 +31,19 @@ Este repositorio contiene toda la documentación sobre asuntos relativos a biolo
 
 ### **Manual para el cultivo en placa**
 
-1. *Lactobacillus casei*
+1. Preparación del medio de cultivo
 
-    1.1. Materiales para el cultivo de *L. casei*
+2. *Lactobacillus casei*
 
-    1.2. Procedimiento
+    2.1. Materiales para el cultivo de *L. casei*
 
-2. *Saccharomyces cerevisiae*
- 
-    2.1. Materiales para el cultivo de *S. cerevisiae*
- 
     2.2. Procedimiento
+
+3. *Saccharomyces cerevisiae*
+ 
+    3.1. Materiales para el cultivo de *S. cerevisiae*
+ 
+    3.2. Procedimiento
 
 ---------------------------------------
 

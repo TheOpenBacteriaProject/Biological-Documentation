@@ -54,6 +54,8 @@ This repository contains all documentation about theoric biological issues such 
 
 3. Importance of morphological analysis
 
+4. Bibliography
+
 -----------------
 
 ### **Microorganism counting techniques**

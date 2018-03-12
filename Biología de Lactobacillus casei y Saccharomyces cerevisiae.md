@@ -103,9 +103,9 @@ Respecto a su reproducción, puede ser tanto sexual como asexual. El apareamient
 
 * De Man, J.D.; Rogosa, M.; Sharpe, M.E. (1960). *"A Medium for the Cultivation of Lactobacilli"*. J Appl Bact. 23: 130–135.
 
-* McFarland, L.V. (2009). "Evidence-based review of probiotics for antibiotic-associated diarrhea and Clostridium difficile infections" (PDF). Anaerobe. 15 (6): 274–80.
+* McFarland, L.V. (2009). *"Evidence-based review of probiotics for antibiotic-associated diarrhea and Clostridium difficile infections"*. Anaerobe. 15 (6): 274–80.
 
-* Spanhaak, S.; Havenaar, R.; Schaafsma, G. (1998). “The effect of consumption of milk fermented by Lactobacillus casei strain Shirota on the intestinal microflora and immune parameters in humans”. European Journal of Clinical Nutrition. 52 (12): 899–907.
+* Spanhaak, S.; Havenaar, R.; Schaafsma, G. (1998). *“The effect of consumption of milk fermented by Lactobacillus casei strain Shirota on the intestinal microflora and immune parameters in humans”*. European Journal of Clinical Nutrition. 52 (12): 899–907.
 
-* Yuki, N.; Watanabe, K.; Mike, A.; Tagami, Y.; Tanaka, R.; Ohwaki, M. y Morotomi, M. (1999). “Survival of a probiotic, Lactobacillus casei strain Shirota, in the gastrointestinal tract: selective isolation from faeces and identification using monoclonal antibodies”. Int. J. Food Microbiol. 48(1): 51-7.
+* Yuki, N.; Watanabe, K.; Mike, A.; Tagami, Y.; Tanaka, R.; Ohwaki, M. y Morotomi, M. (1999). *“Survival of a probiotic, Lactobacillus casei strain Shirota, in the gastrointestinal tract: selective isolation from faeces and identification using monoclonal antibodies”*. Int. J. Food Microbiol. 48(1): 51-7.
 

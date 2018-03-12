@@ -4,7 +4,7 @@
 1. Introcción a las colonias celulares
 2. Caractersticas morfológicas de las colinas
 3. Importancia del análisis morfolófico
-4. Bibliogarfía
+4. Bibliografía
 --------
 
 ## **1. Introducción a las colonias celulares**

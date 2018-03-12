@@ -1,9 +1,9 @@
 # ANÁLISIS DE LA MORFOLOGÍA DE UNA COLONIA DE MICROORGANISMOS
 
 ## Índice
-1. Introcción a las colonias celulares
-2. Caractersticas morfológicas de las colinas
-3. Importancia del análisis morfolófico
+1. Introducción a las colonias celulares
+2. Características morfológicas de las colonias
+3. Importancia del análisis morfológico
 4. Bibliografía
 --------
 
@@ -14,19 +14,19 @@ Una colonia celular es un grupo de células con similares características, que 
 ![Image not found](/images/e.coli.jpg "Cultivo de E.coli")
 (“Cultivo de E. coli en Agar Mc Conkey”. Carlos Rosas, 2007)
 
-## **2. Características morfológicas de las colinas**
+## **2. Características morfológicas de las colonias**
 
-Las colonias son un reflejo de las bacterias que las componen y por lo tanto, sus características macroscópicas son de gran utilidad en su identificación. Estas características se definen como la morfología de una colonia bacteriana, donde algunas de las características más destacables son:
+Las colonias son un reflejo de las bacterias que las componen y por lo tanto, sus características macroscópicas son de gran utilidad en su identificación. Estas características se definen como la morfología de una colonia bacteriana, donde algunas de las más destacables son:
 
-* Forma: Puntiforme, circular, irregular, fusiforme, filamentosa, rizoide, etc…
-* Tamaño: Diámetro en milímetros (mm).
-* Superficie: Lisa, rugosa, cerebriforme, en anillos concéntricos, etc..
-* Elevación: Planada, elevada, pulvinada, convexa, umbonada, etc…
-* Margen: Entero, ondulado, lobulado, erosionado, filamentoso, rizado, etc…
-* Estructura interna: Amorfa o granulosa.
-* Color: Tanto por luz reflejada como por luz transmitida.
-* Opacidad: Transparente, opaca, etc…
-* Consistencia: Mediante una determinación llevada a cabo con el asa de Nicrom, se puede distinguir entre dura, viscosa, membranosa, * gelatinosa, mucosa, etc..
+* **Forma:** Puntiforme, circular, irregular, fusiforme, filamentosa, rizoide, etc…
+* **Tamaño:** Diámetro en milímetros (mm).
+* **Superficie:** Lisa, rugosa, cerebriforme, en anillos concéntricos, etc..
+* **Elevación:** Planada, elevada, pulvinada, convexa, umbonada, etc…
+* **Margen:** Entero, ondulado, lobulado, erosionado, filamentoso, rizado, etc…
+* **Estructura interna:** Amorfa o granulosa.
+* **Color:** Tanto por luz reflejada como por luz transmitida.
+* **Opacidad:** Transparente, opaca, etc…
+* **Consistencia:** Mediante una determinación llevada a cabo con el asa de Nicrom, se puede distinguir entre dura, viscosa, membranosa, gelatinosa, mucosa, etc..
 
 En la siguiente figura podemos encontrar algunos ejemplos de análisis de la morfología de una colonia junto a algunos grupos de bacterias en los que podemos encontrar estas características:
 
@@ -43,4 +43,4 @@ Además, no sería correcto olvidar que las colonias no solo se pueden encontrar
 
 ## **4. Bibliografía**
 
-Giverso, C.; Verani, M.; Ciarletta, P. (2015). *“Branching instability in expanding bacterial colonies”*. J.R.Soc.Interface 12(104): 20141290.
+Giverso, C.; Verani, M.; Ciarletta, P. (2015). *“Branching instability in expanding bacterial colonies”*. J. R. Soc. Interface 12(104): 20141290.

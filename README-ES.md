@@ -49,11 +49,13 @@ Este repositorio contiene toda la documentación sobre asuntos relativos a biolo
 
 ### **Análisis de la Morfología de una Colonia de Microorganismos**
 
-1. Introcción a las colonias celulares
+1. Introducción a las colonias celulares
 
-2. Caractersticas morfológicas de las colinas
+2. Características morfológicas de las colonias
 
 3. Importancia del análisis morfolófico
+
+4. Bibliografía
 
 ---------------------------------------
 

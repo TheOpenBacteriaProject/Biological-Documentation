@@ -6,6 +6,18 @@ This repository contains all documentation about theoric biological issues such 
 
 ## Index
 
+### **Microbial colony morphological analysis**
+
+1. Introduction to cellular colonies
+
+2. Morphological classification of colonies
+
+3. Importance of morphological analysis
+
+4. Bibliography
+
+-----------------
+
 ### **Biology of *Lactobacillus casei* and *Saccharomyces cerevisiae***
 
 1. *Lactobacillus casei*
@@ -27,8 +39,30 @@ This repository contains all documentation about theoric biological issues such 
 3. Bibliography
    
    ------------
+
+### Limits of tolerance and bacterial growth
+
+1. What does Tolerance Limits mean?
+
+2. Classification of tolerance limits.
+
+   2.1. Temperature
+
+   2.2. Salinity
+
+   2.3. Humidity
+
+   2.4. Radiation
+
+   2.5. pH
+
+3. Antibiotics as a limiting factor.
+
+4. Bibliography
    
-### **Culture in Petri dish Handbook**
+   ------------
+   
+### **Culture in petri dish handbook**
 
 1. Preparation of culture medium
 
@@ -46,17 +80,15 @@ This repository contains all documentation about theoric biological issues such 
    
    -------------
    
-### **Microbial Colony Morphological Analysis**
+### Necessary materials and equipment
 
-1. Introduction to cellular colonies
+1. Laboratory equipment
 
-2. Morphological classification of colonies
+2. Necessary materials
 
-3. Importance of morphological analysis
+3. Availability
 
-4. Bibliography
-
------------------
+------------
 
 ### **Microorganism counting techniques**
 
@@ -85,13 +117,3 @@ This repository contains all documentation about theoric biological issues such 
     3.3. Counting by image analysis
 
 4. Bibliography
-
--------------------------
-
-### Necessary materials and equipment
-
-1. Laboratory equipment
-
-2. Necessary materials
-
-3. Availability

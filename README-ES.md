@@ -6,6 +6,18 @@ Este repositorio contiene toda la documentación sobre asuntos relativos a biolo
 
 ## Índice
 
+### **Análisis de la Morfología de una Colonia de Microorganismos**
+
+1. Introducción a las colonias celulares
+
+2. Características morfológicas de las colonias
+
+3. Importancia del análisis morfolófico
+
+4. Bibliografía
+
+---------------------------------------
+
 ### **Biología de *Lactobacillus casei* y *Saccharomyces cerevisiae***
 
 1. *Lactobacillus casei*
@@ -29,6 +41,28 @@ Este repositorio contiene toda la documentación sobre asuntos relativos a biolo
     
 ---------------------------------------
 
+### **Límites de tolerancia y crecimiento bacteriano**
+
+1. ¿Qué son los límites de tolerancia?
+
+2. Clasificación de los límites de tolerancia.
+
+    2.1. Temperatura
+
+    2.2. Salinidad
+
+    2.3. Humedad
+
+    2.4. Radiación
+
+    2.5. pH
+
+3. Los antibióticos como factor limitante.
+
+4. Bibliografía
+
+---------------------------------------
+
 ### **Manual para el cultivo en placa**
 
 1. Preparación del medio de cultivo
@@ -47,15 +81,13 @@ Este repositorio contiene toda la documentación sobre asuntos relativos a biolo
 
 ---------------------------------------
 
-### **Análisis de la Morfología de una Colonia de Microorganismos**
+### Materiales y equipamiento necesarios
 
-1. Introducción a las colonias celulares
+1. Equipo del laboratorio
 
-2. Características morfológicas de las colonias
+2. Materiles necesarios
 
-3. Importancia del análisis morfolófico
-
-4. Bibliografía
+3. Disponibilidad
 
 ---------------------------------------
 
@@ -88,11 +120,3 @@ Este repositorio contiene toda la documentación sobre asuntos relativos a biolo
 4. Bibliografía
 
 ------------------------------
-
-### Materiales y equipamiento necesarios
-
-1. Equipo del laboratorio
-
-2. Materiles necesarios
-
-3. Disponibilidad

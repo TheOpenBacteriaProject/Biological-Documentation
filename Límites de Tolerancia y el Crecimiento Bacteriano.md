@@ -1,4 +1,7 @@
 # Límites de Toleracia y el Crecimiento Bacteriano
+
+![](https://raw.githubusercontent.com/TheOpenBacteriaProject/Branding/master/Documentation-Media/Document-Header.png)
+
 ## Índice
 1. ¿Qué son los límites de tolerancia?
 2. Clasificación de los límites de tolerancia.

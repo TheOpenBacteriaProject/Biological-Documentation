@@ -1,5 +1,7 @@
 # BIOLOGÍA DE *LACTOBACILLUS CASEI* Y *SACCHAROMYCES CEREVISIAE*
 
+![](https://raw.githubusercontent.com/TheOpenBacteriaProject/Branding/master/Documentation-Media/Document-Header.png)
+
 ## Índice
 1. *Lactobacillus casei*
 

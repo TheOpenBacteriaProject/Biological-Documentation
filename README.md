@@ -1,4 +1,4 @@
-# **Biological Documentation**
+# **BIOLOGICAL DOCUMENTATION**
 
 ![](https://raw.githubusercontent.com/TheOpenBacteriaProject/Branding/master/Documentation-Media/Document-Header.png)
 

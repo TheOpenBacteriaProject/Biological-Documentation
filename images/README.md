@@ -1,4 +1,4 @@
-# About images
+# ABOUT IMAGES
 
 ![](https://raw.githubusercontent.com/TheOpenBacteriaProject/Branding/master/Documentation-Media/Document-Header.png)
 

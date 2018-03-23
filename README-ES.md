@@ -1,5 +1,7 @@
 # **Documentación Biológica**
 
+![](https://raw.githubusercontent.com/TheOpenBacteriaProject/Branding/master/Documentation-Media/Document-Header.png)
+
 Este repositorio contiene toda la documentación sobre asuntos relativos a biología teórica tales como métodos y técnicas de cultivo, justificación, ecología y usos comunes de los microorganismos elegidos, etc...A continuación se expone el índice seguido en estos documentos.
 
 -----------------

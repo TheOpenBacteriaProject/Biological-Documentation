@@ -1,5 +1,7 @@
 # MATERIALES Y EQUIPAMIENTO NECESARIOS
 
+![](https://raw.githubusercontent.com/TheOpenBacteriaProject/Branding/master/Documentation-Media/Document-Header.png)
+
 ## Índice
 
 1. Equipo del laboratorio

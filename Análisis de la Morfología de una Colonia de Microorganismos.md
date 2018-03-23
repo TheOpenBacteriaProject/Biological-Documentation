@@ -1,5 +1,7 @@
 # ANÁLISIS DE LA MORFOLOGÍA DE UNA COLONIA DE MICROORGANISMOS
 
+![](https://raw.githubusercontent.com/TheOpenBacteriaProject/Branding/master/Documentation-Media/Document-Header.png)
+
 ## Índice
 1. Introducción a las colonias celulares
 2. Características morfológicas de las colonias

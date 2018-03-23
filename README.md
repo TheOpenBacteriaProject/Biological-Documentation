@@ -1,5 +1,7 @@
 # **Biological Documentation**
 
+![](https://raw.githubusercontent.com/TheOpenBacteriaProject/Branding/master/Documentation-Media/Document-Header.png)
+
 This repository contains all documentation about theoric biological issues such as culture methods and techniques, justification, ecology and current functions of chosen microorganisms. The following one is the index kept in these documents.
 
 -----------------

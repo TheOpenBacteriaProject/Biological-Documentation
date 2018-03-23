@@ -1,5 +1,7 @@
 # **TÉCNICAS DE RECUENTO DE MICROORGANISMOS**
 
+![](https://raw.githubusercontent.com/TheOpenBacteriaProject/Branding/master/Documentation-Media/Document-Header.png)
+
 ## Índice
 
 1. Introducción a los métodos de recuento

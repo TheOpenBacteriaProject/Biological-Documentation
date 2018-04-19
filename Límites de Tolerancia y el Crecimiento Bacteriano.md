@@ -1,4 +1,4 @@
-# Límites de Toleracia y el Crecimiento Bacteriano
+# LÍMITES DE TOLERANCIA Y EL CRECIMIENTO BACTERIANO
 
 ![](https://raw.githubusercontent.com/TheOpenBacteriaProject/Branding/master/Documentation-Media/Document-Header.png)
 
